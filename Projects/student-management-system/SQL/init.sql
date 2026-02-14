@@ -1,0 +1,5 @@
+CREATE DATABASE StudentDB;
+GO
+
+USE StudentDB;
+

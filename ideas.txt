@@ -1,0 +1,27 @@
+https://github.com/siddharth9300/student-management-system/blob/main/README.md
+
+Phase 1 (CLI + DB)
+
+Student Management System
+
+Expense Tracker
+
+Inventory System
+
+Banking System
+
+Phase 2 (API)
+
+Convert projects into Flask APIs
+
+Add REST endpoints
+
+JWT authentication
+
+Phase 3 (Full Stack)
+
+Flask + React
+
+DB + API + UI
+
+Auth + roles
