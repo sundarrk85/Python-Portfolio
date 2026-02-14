@@ -1,2 +1,4 @@
-# Python-Portfolio
-Python backend portfolio featuring SQL Server integration, modular architecture, CRUD systems, and enterprise-style project structure.
+# Sundar R K - Python Portfolio
+
+**About**
+This is my personal portfolio based on Python programming language.
