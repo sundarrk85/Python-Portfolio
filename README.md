@@ -1,3 +1,4 @@
-Omar Kraidié - Portfolio
+Sundar R K - Python Portfolio
+
 About
-This is my personal web-based portfolio showcasing some information about me and my recent projects.
+This is my personal portfolio based on Python programming language.
